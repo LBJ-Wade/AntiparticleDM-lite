@@ -1,6 +1,8 @@
-# AntiparticleDM
+# AntiparticleDM-lite
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.815457.svg)](https://doi.org/10.5281/zenodo.815457)
+
+**Note:** This repo is identical to [AntiparticleDM](https://github.com/bradkav/AntiparticleDM), but without the data in the `results` folder, for size reasons.
 
 Python code for calculating the prospects of future direct detection experiments to discriminate between Majorana and Dirac Dark Matter (i.e. to determine whether Dark Matter is its own antiparticle). Direct detection event rates and mock data generation are taken care of by a variation of the `WIMpy` code - available [here](https://github.com/bradkav/WIMpy/tree/Antiparticle).
 
